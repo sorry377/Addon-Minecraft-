@@ -1,0 +1,6 @@
+{
+  "name": "MC Addon Studio",
+  "description": "Create, customize, and install Minecraft Bedrock Add-ons (.mcpack and .mcaddon) with ready-to-share curated pack bundles, no-code block and item creators, 3D model designer, shader presets gallery with live preview, and automatic backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
